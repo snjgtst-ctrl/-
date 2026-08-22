@@ -1,0 +1,3 @@
+# Japanese Morning Tea Scene
+
+A quiet Japanese living room in the early morning, a simple ceramic cup filled with a warm beverage placed on a clean wooden table, soft natural morning sunlight entering through a nearby window and gently illuminating the cup and tabletop, subtle steam rising naturally from the warm drink, calm everyday home atmosphere, minimalist and realistic composition, neutral interior, no people visible, locked-off camera, very subtle natural movement only from the steam, soft morning light, shallow depth of field, realistic textures, cinematic but natural stock footage, clean negative space for commercial use, no visible text, no logos, no brand names, no product packaging, no trademarks, no recognizable artwork, no identifiable people, no watermark
