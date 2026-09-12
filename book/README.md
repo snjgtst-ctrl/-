@@ -23,6 +23,7 @@ child sleeps, and the exhausted grown-up is allowed to sleep first.
 | `hane-keeps-the-wind.md` | Book 2 — child tengu, 12 pages. Full text, image prompts, KDP metadata |
 | `momo-character-sheet.md` | Momo, the child. Shared across every volume |
 | `kasa-character-sheet.md` | Kasa reference sheets (turnaround, expressions, poses) |
+| `hane-character-sheet.md` | Hane reference sheets (turnaround, expressions, the five fan strokes, series line-up) |
 
 ## Recurring cast
 
@@ -34,7 +35,6 @@ the parent into a brand.
 
 - Book 1 is 14 pages, Book 2 is 12. Trimming Book 1 to 12 would align production, pricing
   and the series listing.
-- Hane's character sheets are not built yet.
 - Covers are not designed. Covers must **not** reuse the interior's dark, low-contrast
   look — an Amazon thumbnail is about a centimeter square and the interior palette
   disappears at that size. Covers need their own brighter, higher-contrast treatment.
