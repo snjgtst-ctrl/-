@@ -20,7 +20,7 @@ child sleeps, and the exhausted grown-up is allowed to sleep first.
 | File | Contents |
 |---|---|
 | `kasa-keeps-the-night.md` | Book 1 — karakasa (paper umbrella yokai), 14 pages. Full text, image prompts, KDP metadata |
-| `hane-keeps-the-wind.md` | Book 2 — child tengu, 12 pages. Full text, image prompts, KDP metadata |
+| `hane-keeps-the-wind.md` | Book 2 — small tengu, 12 pages. Full text, image prompts, KDP metadata |
 | `momo-character-sheet.md` | Momo, the child. Shared across every volume |
 | `kasa-character-sheet.md` | Kasa reference sheets (turnaround, expressions, poses) |
 | `hane-character-sheet.md` | Hane reference sheets (turnaround, expressions, the five fan strokes, series line-up) |

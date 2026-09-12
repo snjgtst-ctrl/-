@@ -2,7 +2,7 @@
 
 **Yokai Night Watch, Book 2.** Fixed-layout Kindle children's book (KDP, international/EN).
 Target: age 3, read aloud by mother, at bedtime **stage B** (already in the futon, wide awake).
-Yokai: a **child tengu**. 12 pages.
+Yokai: a **small tengu** — a lesser mountain tengu, fully grown but tiny. 12 pages.
 Parent pain point solved: **guilt about falling asleep before the child.**
 Hard rules: no moralizing, no "be good", no "go to sleep now", no gore, no genuinely scary faces.
 
@@ -36,18 +36,24 @@ sleeping umbrellas into a single page.
 
 **MOMO** — unchanged from Book 1. See `book/momo-character-sheet.md`.
 
-**HANE** ("HAH-neh", *feather*) — a child tengu, still learning. His tengu nose has not
-grown yet; it is a short round button nose. His wings are slightly too big for him and he
-is a little clumsy with them. Cheeks are dusty coral, never bright red. No beak, no claws,
-no fangs. He carries one leaf-shaped hauchiwa fan.
+**HANE** ("HAH-neh", *feather*) — a **small tengu**: not a child, but a fully grown one
+who is simply tiny and always will be. He sits in the folkloric line of the *konoha-tengu*,
+the lesser tengu of the leaves — low-ranked, overlooked, and good at exactly one thing.
+(No beak, though: the crow-faced version is not used here.) His nose is short and round
+because he is small, not because he is young. His wings are well proportioned but visibly
+well used. Cheeks dusty coral, never bright red. Quiet, modest, precise — the clumsiness
+of an apprentice is deliberately absent, and so are elder markers like a beard or a staff,
+which would collide with Kasa's grandfatherly register in Book 1.
 
 ---
 
 ## 3. The sleep device: the fan stroke shrinks every page
 
-Hane is mid-training. His first stroke is far too strong and blows a leaf into the room —
-the loudest moment in the book. Every stroke after it is smaller, what enters is smaller
-and quieter, and by the end he is not fanning at all: the wind is only breathing.
+His first stroke is a full mountain gust — the stroke a tengu actually uses, and the
+loudest moment in the book. Then he corrects: *that was mountain wind; this is a bedroom.*
+Every stroke after it is smaller by intent, what enters is smaller and quieter, and by the
+end he is not fanning at all: the wind is only breathing. The descent is craft, not a
+learning curve — he is dialing a tool down, precisely, on purpose.
 
 **The onomatopoeia shrinks with it:** `WHOOSH` -> `Fwoo` -> `Foo` -> silence.
 **Set the type size to shrink with the word.** Children predict how loud a word will be
@@ -62,17 +68,20 @@ sustains arousal; scent and distant sound do not. That is where the child goes d
 
 ## 4. The guilt-release device, promoted
 
-Book 1 had Kasa offer protection. Book 2 inverts the angle: **tonight is Hane's first
-night on watch, and he badly wants the job.** A parent falling asleep first is not a
-failure — it is handing a small one their first real work.
+Book 1 had Kasa offer protection. Book 2 inverts the angle: **Hane is too small for the
+mountain to ever call on him, and he has been waiting a very long time for someone to need
+exactly what he can do.** A parent falling asleep first is not a failure — it is letting a
+small one finally be useful. "A job he has waited for" lands harder at midnight than "his
+first job" does.
 
 Front matter, "For the grown-up":
 
 ```
-Tonight is Hane's first night on watch.
+Hane is very small, and the mountain has never once called for him.
+Tonight, someone needed exactly that.
 If you fall asleep before your child, you are not failing.
-You are giving a small one its first job.
-Go on. Hane is waiting. Goodnight, big one.
+You are letting a small one finally be useful.
+Go on. Hane is ready. Goodnight, big one.
 ```
 
 ---
@@ -83,13 +92,13 @@ Go on. Hane is waiting. Goodnight, big one.
 |---|---|---|---|
 | 1 | The wind is awake. So is Momo. The shoji rustles | — | — |
 | 2 | A tiny tengu lands on the sill and folds his wings | — | — |
-| 3 | "I am Hane. I am learning the wind. Tonight is my first night" | — | — |
-| 4 | "Do not get up. I will bring the night to you." **WHOOSH** | huge | one spinning leaf |
-| 5 | "Too big." Smaller. **Fwoo** | medium | one feather onto the quilt |
+| 3 | "I am Hane. A very small tengu. Small wind is what I am good at" | — | — |
+| 4 | "I will bring the night to you." He opens his wings the way tengu do. **WHOOSH** | huge | one spinning leaf |
+| 5 | "That was mountain wind. This is a bedroom." **Fwoo** | medium | one feather onto the quilt |
 | 6 | Smaller. **Foo** | small | a thin piece of moonlight, then stillness |
 | 7 | Smaller | tiny | a small grey cloud sits in the corner and sleeps |
 | 8 | Smallest | almost none | only the smell of rain and far pines breathing |
-| 9 | Hane looks at his short nose. "I am small. But I can watch" | stopped | — |
+| 9 | "I am small. The mountain never calls me. Tonight, that was lucky" | stopped | — |
 | 10 | Up to the roof beam. "I will keep the wind. And the big warm one" | — | — |
 | 11 | In... and out. The wind breathes with Momo | — | — |
 | 12 | Still. Still. Goodnight | — | — |
@@ -130,23 +139,27 @@ straight blunt bangs, wearing a loose yukata-style pajama in pale lavender-grey 
 printed with small sparse white crescent moons #F5EFE6, bare feet. Lying down on a low
 futon with an indigo #4A5273 quilt. Gender-neutral: no ribbons, no bows, no pink.
 
-[HANE] a very small child tengu, height 88 cm, three heads tall, round soft cheeks in
-dusty coral #D98C86 (NEVER bright red), a SHORT round button nose (he is still young and
-his tengu nose has not grown), big round gentle dark eyes with iris #3E3A4A, soft
-charcoal #2E2A33 hair in a small topknot, a tiny black yamabushi tokin cap #3A3644 on the
-forehead on a thin cord, TWO small soft feathered wings in smoke grey #9AA0AE tipped with
-pale moss, slightly too big for his body, a short indigo #4A5273 yamabushi robe with a
-pale moss #A8B49A sash, bare feet with small round toes, holding ONE leaf-shaped hauchiwa
-fan of pale moss green with fine leaf veins. Earnest, gentle, a little clumsy.
-NO beak, NO long nose, NO claws, NO fangs, NO angry face, never frightening.
+[HANE] a very small ADULT tengu, height 88 cm, compact four heads tall - small but grown,
+not a child. Warm pale skin #F0DCCB, dusty coral blush #D98C86 on the CHEEKS ONLY (the
+face is NOT red), a SHORT ROUND NOSE about 4 cm - he is a small tengu, so his nose is
+small. Calm round dark eyes with iris #3E3A4A and faint kind creases at the outer corners,
+level friendly eyebrows. Soft charcoal #2E2A33 hair in a small neat topknot, a tiny black
+yamabushi tokin cap #3A3644 on the forehead on a thin cord. TWO feathered wings in smoke
+grey #9AA0AE tipped pale moss #A8B49A, five flight feathers each, well proportioned but
+clearly well used with a few worn tips. A knee-length indigo #4A5273 yamabushi robe faded
+at the hem, a pale moss #A8B49A sash, two small pale moss pom-poms on the chest cords.
+Bare feet, no sandals. He holds ONE leaf-shaped hauchiwa fan, 30 cm, pale moss green
+#9FB08C with fine veins and a handle darkened by use. Quiet, modest, precise, unhurried.
+NO beak, NO long nose, NO claws, NO fangs, NO beard, NO staff, NO angry face.
 
 [FORMAT] landscape 16:10, 2560x1600 px, keep the bottom 22% quiet and low-detail as a
 clear area for text, nothing important in the center vertical seam.
 
 [NEGATIVE] scary, creepy, horror, demon, oni, red face, bright red skin, long nose, beak,
-crow head, claws, fangs, angry eyebrows, weapon, blood, glowing red eyes, harsh black
-shadows, neon colors, high saturation, 3D render, photorealistic, extra limbs, extra
-wings, watermark, distorted text.
+crow head, claws, fangs, angry eyebrows, weapon, staff, beard, clumsy, flailing, off
+balance, childlike tengu, blood, glowing red eyes, harsh black shadows, neon colors, high
+saturation, 3D render, photorealistic, extra limbs, extra wings, watermark, distorted
+text.
 ```
 
 ---
@@ -157,10 +170,11 @@ wings, watermark, distorted text.
 
 **Text**
 ```
-Tonight is Hane's first night on watch.
+Hane is very small, and the mountain has never once called for him.
+Tonight, someone needed exactly that.
 If you fall asleep before your child, you are not failing.
-You are giving a small one its first job.
-Go on. Hane is waiting. Goodnight, big one.
+You are letting a small one finally be useful.
+Go on. Hane is ready. Goodnight, big one.
 ```
 
 **Prompt**
@@ -169,10 +183,11 @@ Go on. Hane is waiting. Goodnight, big one.
 [HANE] alone, seen from behind and slightly below, sitting small on a dark wooden roof
 beam with the leaf fan held in both hands across his lap, wings folded, looking out into
 quiet darkness. Ninety percent empty soft darkness. No child, no people, no adults.
-Proud, earnest, tiny.
-The four lines of text "Tonight is Hane's first night on watch. If you fall asleep before
-your child, you are not failing. You are giving a small one its first job. Go on. Hane is
-waiting. Goodnight, big one." are written in the center-lower area in a small soft italic
+Settled, modest, tiny - not sad, not proud.
+The five lines of text "Hane is very small, and the mountain has never once called for
+him. Tonight, someone needed exactly that. If you fall asleep before your child, you are
+not failing. You are letting a small one finally be useful. Go on. Hane is ready.
+Goodnight, big one." are written in the center-lower area in a small soft italic
 handwritten font, warm off-white.
 [NEGATIVE]
 ```
@@ -213,7 +228,7 @@ written in the lower area in a soft rounded handwritten storybook font, warm off
 It was a very small tengu.
 Round soft cheeks.
 A short round nose.
-Two feathery wings, still too big for him.
+Two grey feathery wings, folded neat.
 And in one hand, a leaf fan.
 ```
 
@@ -222,9 +237,9 @@ And in one hand, a leaf fan.
 [STYLE] [HANE] [FORMAT]
 Medium close shot of [HANE] perched on the wooden window sill, seen from inside the dark
 room, moonlight behind him giving a soft pale rim light on his feathers. He is folding his
-two slightly oversized wings with visible effort, one hand gripping the leaf fan. His
-short round nose and round coral cheeks are clearly visible. Curious and shy, not
-threatening. Faint shoji glow. [MOMO] appears only as a small out-of-focus head at the
+two grey wings down neatly and without fuss, one hand holding the leaf fan. His short
+round nose and coral cheeks are clearly visible. Small, composed and unthreatening -
+a grown tengu who simply happens to be tiny. Faint shoji glow. [MOMO] appears only as a small out-of-focus head at the
 bottom edge.
 The text "It was a very small tengu. A short round nose. And in one hand, a leaf fan." is
 written in the lower area in a soft rounded handwritten storybook font, warm off-white.
@@ -238,21 +253,21 @@ written in the lower area in a soft rounded handwritten storybook font, warm off
 **Text**
 ```
 "I am Hane," he whispered.
-"I am learning the wind.
-Tonight is my first night."
-Hane bowed - and almost fell off the sill.
+"A very small tengu.
+Small wind is the thing I am good at."
+Then he bowed - low, slow and completely serious.
 ```
 
 **Prompt**
 ```
 [STYLE] [MOMO] [HANE] [FORMAT]
-Close two-shot. [HANE] is bowing politely on the window sill and tipping forward a little
-too far, one wing flapping out to catch his balance, the leaf fan swinging, comic but very
-gentle. [MOMO] lies on the futon below, quilt to the chin, eyes wide with a tiny delighted
-smile. Two light sources only: moon through shoji, small floor lantern. Warm, funny,
+Close two-shot. [HANE] is bowing on the window sill - a deep, formal, perfectly
+controlled bow, folded all the way down, wings tucked, the leaf fan held correctly at his
+side. The comedy is entirely in how small he is and how seriously he means it. [MOMO] lies
+on the futon below, quilt to the chin, eyes wide with a tiny delighted smile. Two light sources only: moon through shoji, small floor lantern. Warm, funny,
 hushed.
-The text "'I am Hane. I am learning the wind. Tonight is my first night.'" is written in
-the lower area in a soft rounded handwritten storybook font, warm off-white.
+The text "'I am Hane. A very small tengu. Small wind is the thing I am good at.'" is
+written in the lower area in a soft rounded handwritten storybook font, warm off-white.
 [NEGATIVE]
 ```
 
@@ -263,21 +278,23 @@ the lower area in a soft rounded handwritten storybook font, warm off-white.
 **Text**
 ```
 "Do not get up," said Hane.
-"Stay warm. I will bring the night to you."
+"I will bring the night to you."
+He opened his wings the way tengu do.
 WHOOSH.
-One leaf spun into the room.
+One leaf spun across the room.
 ```
 
 **Prompt**
 ```
 [STYLE] [MOMO] [HANE] [FORMAT]
-[HANE] swings the leaf fan in a big enthusiastic arc, far too strong, with wide sweeping
-motion lines. A single autumn leaf in dusty rose spins into the room in a wide spiral,
+[HANE] swings the leaf fan in one huge controlled arc - the full sweep a tengu uses on
+the mountain, confident and skilled rather than clumsy, wings fully spread, with wide
+sweeping motion lines. A single autumn leaf in dusty rose spins into the room in a wide spiral,
 trailing a soft curl of wind. [MOMO] stays lying flat on the futon, NOT sitting up, quilt
 gripped, eyes huge with delight, bangs blown back. The shoji rattles. Biggest movement in
 the whole book, still soft and low contrast.
-The text "'Stay warm. I will bring the night to you.' WHOOSH. One leaf spun into the
-room." is written in the lower area in a soft rounded handwritten storybook font, warm
+The text "'I will bring the night to you.' He opened his wings the way tengu do. WHOOSH."
+is written in the lower area in a soft rounded handwritten storybook font, warm
 off-white, with the word "WHOOSH" noticeably LARGER than the rest.
 [NEGATIVE]
 ```
@@ -289,21 +306,21 @@ off-white, with the word "WHOOSH" noticeably LARGER than the rest.
 **Text**
 ```
 "Too big," said Hane.
-Smaller this time.
+"That was mountain wind.
+This is a bedroom."
 Fwoo.
-One feather floated in
-and lay down on the quilt.
+One feather lay down on the quilt.
 ```
 
 **Prompt**
 ```
 [STYLE] [MOMO] [HANE] [FORMAT]
-[HANE] holds the fan close to his chest and makes a small careful stroke, brow furrowed
-with concentration, embarrassed. One soft smoke-grey feather drifts slowly down through
+[HANE] holds the fan close to his chest and makes one small measured stroke, calm and
+exact - adjusting a tool, not apologising for it. One soft smoke-grey feather drifts slowly down through
 the air on a gentle curved path and comes to rest on the indigo quilt near [MOMO]'s
 shoulder. [MOMO] lies still, watching the feather, eyes following it down. Slower, calmer,
 dimmer than the previous page.
-The text "'Too big,' said Hane. Smaller this time. Fwoo. One feather floated in." is
+The text "'Too big,' said Hane. 'That was mountain wind. This is a bedroom.' Fwoo." is
 written in the lower area in a soft rounded handwritten storybook font, warm off-white,
 with "Fwoo" slightly larger than the rest but much smaller than the previous page's WHOOSH.
 [NEGATIVE]
@@ -392,19 +409,20 @@ lower area in a soft rounded handwritten storybook font, warm off-white.
 
 **Text**
 ```
-Hane's nose was still short.
-"I am small," he said.
-"But I can watch."
+"I am small," said Hane.
+"The mountain never calls me.
+Tonight, that was lucky."
 ```
 
 **Prompt**
 ```
 [STYLE] [HANE] [FORMAT]
 Quiet close shot of [HANE] alone on the sill in near darkness, the fan now lowered and
-held in both hands, looking down at his own short round nose with a small serious
-expression, then lifting his chin with quiet resolve. Soft pale moon rim light on one
-side only. Tender, brave, very small. Deep gentle indigo darkness around him.
-The text "'I am small,' he said. 'But I can watch.'" is written in the lower area in a
+held in both hands, looking out at the night with a level, unsentimental expression -
+settled, neither sad nor proud. Soft pale moon rim light on one side only. Tender,
+steady, very small. Deep gentle indigo darkness around him.
+The text "'I am small. The mountain never calls me. Tonight, that was lucky.'" is written
+in the lower area in a
 soft rounded handwritten storybook font, warm off-white.
 [NEGATIVE]
 ```
@@ -492,7 +510,7 @@ soft rounded handwritten storybook font, warm off-white, with generous space aro
 | | Title | Rationale |
 |---|---|---|
 | A (recommended) | **Hane Keeps the Wind** | Exact parallel to *Kasa Keeps the Night*; the series reads as a set on the shelf |
-| B | The Little Tengu's First Night | Puts the guilt release in the title itself; strongest as a standalone |
+| B | The Smallest Tengu on the Mountain | Puts the guilt release in the title itself; strongest as a standalone |
 | C | Goodnight, Little Tengu | Strongest search terms ("Goodnight" + "Little"); weakest series signal |
 
 ### Subtitle
@@ -522,21 +540,22 @@ Age Range 2-5, Grade Preschool-Kindergarten.
 
 ### Description (147 words)
 ```
-Tonight is Hane's first night on watch.
+Hane is a tengu, and Hane is very small. Small enough that the mountain has never
+once called for him.
 
-He is a very small tengu. His wings are still too big for him. His nose is still
-short. And he is only just learning how to use the wind.
+Tonight, someone needs exactly that.
 
-"Do not get up," Hane whispers from the window sill. "Stay warm. I will bring the
-night to you."
+"Do not get up," he whispers from the window sill. "I will bring the night to you."
+Then he opens his wings the way tengu do, and a leaf goes spinning across the room.
 
-His first swing of the leaf fan is far too big, and a leaf goes spinning through
-the room. So he tries smaller. Then smaller. A feather. A thin piece of moonlight.
+"Too big," says Hane. "That was mountain wind. This is a bedroom."
+
+So he makes the wind smaller. Then smaller. A feather. A thin piece of moonlight.
 A small grey cloud that sits in the corner and falls asleep. Then only the smell of
 rain, and far away pine trees, breathing.
 
-By the last page there is no wind left at all - only a tiny tengu on the roof beam,
-wide awake, keeping watch over a sleeping child.
+By the last page there is no wind left at all - only a very small tengu on the roof
+beam, wide awake, keeping watch over a sleeping child.
 
 And over the tired grown-up beside them.
 ```
